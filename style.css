@@ -58,3 +58,12 @@
      padding: 20px;
      border:2px solid grey
  }
+footer{
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width:100%;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: center;
+}
